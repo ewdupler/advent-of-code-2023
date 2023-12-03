@@ -9,3 +9,4 @@ I'm doing this for fun, in Python.  But it's still interesting to track my stats
     DAY | Part 1 Rank | Part 2 Rank 
 
 *   [Day 1](Day1/README.md)   85121 40587
+*   [Day 2](Day2/README.md)   92863  4305
