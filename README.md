@@ -10,3 +10,4 @@ I'm doing this for fun, in Python.  But it's still interesting to track my stats
 
 *   [Day 1](Day1/README.md)   85121 40587
 *   [Day 2](Day2/README.md)   92863  4305
+*   [Day 3](Day3/README.md)   39346  9968
