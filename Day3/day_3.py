@@ -17,10 +17,10 @@ def main():
 
 
     # Part 1
-    # print(sum(findnums(data)))
+    print("Part 1:", sum(findnums(data)))
 
     # Part 2
-    print(gearsum(data))
+    print("Part 2:", gearsum(data))
 
 
 def findnums(data):
